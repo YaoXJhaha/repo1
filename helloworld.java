@@ -1,1 +1,1 @@
-public static void main
+嘿嘿
